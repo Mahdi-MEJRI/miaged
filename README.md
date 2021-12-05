@@ -5,5 +5,5 @@
 * Flutter
 * Firebase 
 
-![Screenshot](listeDesVetements.jpg)
+![Screenshot](assets/acceuil.jpg)
 
