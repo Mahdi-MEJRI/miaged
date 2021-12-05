@@ -2,7 +2,7 @@
 
 ## Tech
 
-* [Flutter]
-* [Firebase] 
+* Flutter
+* Firebase 
 
 
