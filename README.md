@@ -7,10 +7,9 @@
 
 
 
- ![Screenshot1](captures/EcranDaccueil.jpg)                      
+                                                              ![Screenshot](captures/EcranDaccueil.jpg)                      
  
- 
- ![Screenshot1](captures/login.jpg)
+                                                               ![Screenshot](captures/login.jpg)
 
 
 
